@@ -1,0 +1,11 @@
+build/
+out/
+bin/
+obj/
+.vs/
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.user
